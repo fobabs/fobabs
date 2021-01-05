@@ -1,6 +1,6 @@
 # Hi! 👋 Earthlings
 
-I am best known as a **Technology Developer** 👨🏿‍💻 and **Content Creator**.
+I am best known as a **Technology Developer** 👨🏿‍💻 with specialty in *Software Development* and *Data Analysis*.
 
 I have been hiding all along somewhere far away in the galaxy but I'm back to earth 😄. On my return, I landed in Nigeria.
 
@@ -13,10 +13,10 @@ There is a slogan I carved out for myself:
 
 ## Some interesting things I do:
 
-* I'm building a brand around **FOBABS**
+* I'm building a brand around my name **FOBABS**
   
 * I talk a lot on twitter [@fobabs](https://twitter.com/fobabs)
 
-* I write ✍️ on [Medium](https://medium.com/@fobabs)
+* I write ✍️ on my [Blog](https://blog.fobabs.com)
 
 * I play the piano 🎹 on weekends.
