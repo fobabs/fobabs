@@ -1,15 +1,13 @@
 # Hi! 👋 Earthlings
 
-I am best known as a **Technology Developer** 👨🏿‍💻 with specialty in *Software Development* and *Data Analysis*.
+I am best known as a **Techie** 👨🏿‍💻 with specialty in *Data* and *Technology*.
 
 I have been hiding all along somewhere far away in the galaxy but I'm back to earth 😄. On my return, I landed in Nigeria.
 
-Since then, I have been committed to using technology to advance human abilities and inspiring them with things that enable them to get better.
+Since my arrival, my mission has been to build people to use technology to grow and my goal is to harness the power of data and technology to make them maximize their potentials.
 
 All in all, nothing gives me the utmost joy than my service to humanity.
 
-There is a slogan I carved out for myself:
-> If it isn't *techie*, it isn't **FOBABS**.
 
 ## Some interesting things I do:
 
