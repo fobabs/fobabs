@@ -1,6 +1,6 @@
 # Hi! 👋 Earthlings
 
-I am best known as a **Techie** 👨🏿‍💻 who eats Software as *breakfast*, *lunch* and *dinner*.
+I am best known as a **Techie** 👨🏿‍💻 who eats Software for *breakfast*, *lunch* and *dinner*.
 
 I have been hiding all along somewhere far away in the galaxy but I'm back to earth 😄. On my return, I landed in Nigeria.
 
