@@ -8,11 +8,11 @@ I am best known as a Techie 👨🏿‍💻 who eats Software for breakfast, lun
 
 All in all, nothing gives me the utmost joy than my service to humanity building applications that solves the world's problems.
 
-* 🌍  I'm based in Port Harcourt, Nigeria
-* 🖥️  See my portfolio at [My Personal Website](http://www.fobabs.com)
+* 🌍  Exists somewhere on the planet
+* 🖥️  See my website at [FOBABS](http://www.fobabs.com)
 * ✉️  You can contact me at [hi@fobabs.com](mailto:hi@fobabs.com)
 * 🚀  I'm currently working on [Paximity](http://www.paximity.com)
-* 🧠  I'm learning how to build mobile apps using flutter
+* 🧠  I'm current learning Rust so as not to be rusty 🤪
 * 🤝  I'm open to collaborating on Web3 projects
 * ⚡  I'm secretly a penetration tester.....don't tell anyone you know this
 
