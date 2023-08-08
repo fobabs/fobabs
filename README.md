@@ -9,8 +9,8 @@ I am best known as a Techie 👨🏿‍💻 who eats Software for breakfast, lun
 All in all, nothing gives me the utmost joy than my service to humanity building applications that solves the world's problems.
 
 * 🌍  Exists somewhere on the planet
-* 🖥️  See my website at [FOBABS](http://www.fobabs.com)
-* ✉️  You can contact me at [hi@fobabs.com](mailto:hi@fobabs.com)
+* 🖥️  See my website at [FOBABS](http://www.fobabs.co)
+* ✉️  You can contact me at [hi@fobabs.co](mailto:hi@fobabs.co)
 * 🧠  I'm current learning Rust so as not to be rusty 🤪
 * 🤝  I'm open to collaborating on Web3 projects
 * ⚡  I'm secretly a penetration tester.....don't tell anyone you know this
