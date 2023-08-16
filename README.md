@@ -6,13 +6,12 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 I am best known as a Techie 👨🏿‍💻 who eats Software for breakfast, lunch, and dinner. I have been hiding all along somewhere far away in the galaxy but I'm back on earth. On my return, I landed in Nigeria. Since my arrival, my mission has been to build people by harnessing the power of data and technology to improve their lives and make them maximize their potential. 
 
-All in all, nothing gives me the utmost joy than my service to humanity building applications that solves the world's problems.
+All in all, nothing gives me more joy than my service to humanity by building systems that solve the world's problems.
 
 * 🌍  Exists somewhere on the planet
 * 🖥️  See my website at [FOBABS](http://www.fobabs.co)
 * ✉️  You can contact me at [hi@fobabs.co](mailto:hi@fobabs.co)
-* 🧠  I'm current learning Rust so as not to be rusty 🤪
-* 🤝  I'm open to collaborating on Web3 projects
+* 🧠  I'm currently transitioning into another field 🤪
 * ⚡  I'm secretly a penetration tester.....don't tell anyone you know this
 
 ### Skills
