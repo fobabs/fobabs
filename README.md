@@ -11,7 +11,7 @@ All in all, nothing gives me more joy than my service to humanity by building sy
 * 🌍  Exists somewhere on the planet
 * 🖥️  See my website at [FOBABS](http://www.fobabs.co)
 * ✉️  You can contact me at [hi@fobabs.co](mailto:hi@fobabs.co)
-* 🧠  I'm currently transitioning into another field 🤪
+* 🧠  I'm currently transitioning into another field 🤪 (Developer Advocacy)
 * ⚡  I'm secretly a penetration tester.....don't tell anyone you know this
 
 ### Skills
