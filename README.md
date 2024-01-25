@@ -4,9 +4,9 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 👨🏿‍💻 Software Engineer
 --------------------------
 
-I am best known as a Techie 👨🏿‍💻 who eats Software for breakfast, lunch, and dinner. I have been hiding all along somewhere far away in the galaxy but I'm back on earth. On my return, I landed in Nigeria. Since my arrival, my mission has been to build people by harnessing the power of data and technology to improve their lives and make them maximize their potential. 
+I am best known as a Techie 👨🏿‍💻 who eats Software for breakfast, lunch, and dinner. I have been hiding all along somewhere far away in the galaxy but I'm back on earth. On my return, I landed in Nigeria. Since my arrival, my mission has been to empower individuals through the fusion of data and technology, enhancing their lives and unlocking their full potential.
 
-All in all, nothing gives me more joy than my service to humanity by building systems that solve the world's problems.
+My greatest joy stems from serving humanity by crafting applications that address global challenges.
 
 * 🌍  Exists somewhere on the planet
 * 🖥️  See my website at [FOBABS](http://www.fobabs.tech)
