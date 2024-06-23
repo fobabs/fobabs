@@ -11,7 +11,7 @@ My greatest joy stems from serving humanity by crafting applications that addres
 * 🌍  Exists somewhere on the planet
 * 🖥️  See my website at [FOBABS](http://www.fobabs.tech)
 * ✉️  You can contact me at [hi@fobabs.co](mailto:hi@fobabs.co)
-* 🧠  I'm currently transitioning into another field 🤪 (Developer Advocacy)
+* 🧠  I'm currently transitioning into a realm I don't even understand
 * ⚡  I'm secretly a penetration tester.....don't tell anyone you know this
 
 ### Support Me
