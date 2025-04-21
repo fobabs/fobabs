@@ -1,16 +1,27 @@
-Hello World! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
-========================================================================================================================================
+# Hey there, I'm FOBABS 👋
 
-My name is Francis Babalola, I am best known as an Engineer 👨🏿‍💻 who eats Software for breakfast, lunch, and dinner. I have been hiding all along somewhere far away in the galaxy but I'm back on earth. On my return, I landed in Nigeria. Since my arrival, my mission has been to empower individuals through the fusion of data and technology, enhancing their lives and unlocking their full potential.
+Welcome to my little corner of the internet! I'm a **Software Engineer** who lives in the exciting intersection of **blockchain**, **security**, and **creative problem solving**.
 
-My greatest joy stems from serving humanity by crafting applications that address global challenges.
+I spend my days building things for the decentralized world, from smart contracts to security tools and occasionally, entire ecosystems.
 
-* 🌍  Exists somewhere on the planet
-* 🖥️  See my website at [FOBABS](http://www.fobabs.co)
-* ✉️  You can contact me at [hi@fobabs.co](mailto:hi@fobabs.co)
-* 🧠  I'm currently transitioning into a realm beyond me
-* ⚡  I'm secretly a penetration tester.....don't tell anyone you know this
+### 🧠 What I'm up to
 
-### Support Me
+- 🔐 Researching Web3 vulnerabilities and pushing smart contract security forward
+- 🛠️ Building cool tools beyond reasonable doubts
+- 🌍 Exploring Real World Assets, DePIN, DeFi, and everything decentralizable
+- 🧪 Running experiments in my lab
 
-<a href="https://www.buymeacoffee.com/fobabs"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
+### 🛠️ Tech & Tools
+
+```solidity
+Solidity • Rust • Python • TypeScript • Bash
+```
+
+And yes, I’m a big fan of clean CLI tools and meaningful open-source.
+
+### 🤝 Let's connect
+
+- 🐦 [Twitter](https://x.com/fobabs)
+- 💼 [LinkedIn](https://www.linkedin.com/in/fobabs)
+- 🌐 [Website](https://fobabs.co)
+- 📫 Reach out: hi@fobabs.co
