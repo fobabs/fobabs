@@ -6,15 +6,15 @@ I spend my days building things for the decentralized world, from smart contract
 
 ### 🧠 What I'm up to
 
-- 🔐 Researching Web3 vulnerabilities and pushing smart contract security forward
-- 🛠️ Building cool tools beyond reasonable doubts
-- 🌍 Exploring Real World Assets, DePIN, DeFi, and everything decentralizable
-- 🧪 Running experiments in my lab
+- 🔐 Researching Web3 vulnerabilities and pushing smart contract security forward.
+- 🛠️ Building cool tools beyond reasonable doubts.
+- 🌍 Exploring Real World Assets, DePIN, DeFi, and everything decentralizable.
+- 🧪 Running experiments in my lab.
 
 ### 🛠️ Tech & Tools
 
 ```solidity
-Solidity • Rust • Python • TypeScript • Bash
+Solidity • Typescript • Python • Rust • Bash
 ```
 
 And yes, I’m a big fan of clean CLI tools and meaningful open-source.
@@ -25,3 +25,7 @@ And yes, I’m a big fan of clean CLI tools and meaningful open-source.
 - 💼 [LinkedIn](https://www.linkedin.com/in/fobabs)
 - 🌐 [Website](https://fobabs.co)
 - 📫 Reach out: hi@fobabs.co
+
+Thanks for stopping by!
+
+Feel free to fork, star, or say hi 🌟
